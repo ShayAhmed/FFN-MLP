@@ -1,0 +1,20 @@
+[project]
+name = "ffn-mlp"
+version = "0.0.1"
+authors = [
+    { name="Shehryar Ahmed", email="" },
+    { name="Arkan Abuyazid", email="arkan.2.abuyazid@gmail.com" },
+    { name="Tara Abuyazid", email="" }
+]
+description = "A library to create, train, and test multi-level perceptron neural networks."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/ShayAhmed/ffn-mlp"
+Issues = "https://github.com/ShayAhmed/ffn-mlp/issues"
